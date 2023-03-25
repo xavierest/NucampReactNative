@@ -7,7 +7,7 @@ const Mission = () => {
     return (
         <Card>
         <Card.Title>
-            Our Mission Statement
+            Our Mission
         </Card.Title>
         <Card.Divider />
         <Text>
