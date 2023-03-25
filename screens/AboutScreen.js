@@ -7,7 +7,7 @@ const Mission = () => {
     return (
         <Card>
         <Card.Title>
-            Our Mission
+            Our Mission Statement
         </Card.Title>
         <Card.Divider />
         <Text>
@@ -19,7 +19,6 @@ const Mission = () => {
     </Card>
     )
 }
-
 
 const AboutScreen = () => {
     const [partners, setpartners] = useState(PARTNERS);
